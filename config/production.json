@@ -1,0 +1,8 @@
+{
+  "webHDFS": {
+    "user": "root",
+    "host": "xxxxxxxxxxxxxxxx",
+    "port": 50070,
+    "path": "/webhdfs/v1"
+  }
+}
